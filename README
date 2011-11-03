@@ -3,3 +3,23 @@
 ==================================================
 
 11/03/2011 - Just testing things out
+
+11/03/2011 -fibNumber.asm
+--------------------------
+	This is a old program written in MIPs assembly. It is a recursive
+fibonacci number calculator.
+
+11/03/2011-Cryptogram/
+------------------------
+	These are the files that deal with a crypotgram game. It takes
+ a string of characters and then scrambles them. The user inputs guess for letters 
+and the games lets you know if it is right or not.
+
+11/03/2011 - IndexedBST/
+--------------------------
+	This is a binary search tree that uses a Index in order to build it. When 
+the indexed is changed the tree will rebuild itself according to the new index.
+
+11/03/2011-multiThreadedWebServer.c
+--------------------------------------
+	Well it is what it says it is.
